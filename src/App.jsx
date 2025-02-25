@@ -20,12 +20,14 @@ import "@fontsource/poppins";
 import "@fontsource/roboto/400.css";
 import Login from "./components/Login/Login";
 import SignUp from "./components/SignUp/SignUp";
+import Home from "./pages/home/Home";
 
 function App() {
   return (
     <Router>
       <Routes>
-        <Route path="/" element={<Login />} />
+        <Route path="/" element={<Home />} />
+        <Route path="/login" element={<Login />} />
         <Route path="/signup" element={<SignUp />} />
       </Routes>
     </Router>
