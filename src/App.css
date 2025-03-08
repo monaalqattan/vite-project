@@ -40,7 +40,7 @@
 .read-the-docs {
   color: #888;
 } */
-.login-container {
+/* .login-container {
   background: rgba(255, 255, 255, 0.2);
   padding: 20px;
   width: 500px;
@@ -76,27 +76,27 @@ a:hover {
   border-radius: 10px;
   cursor: pointer;
   font-weight: bold;
-}
-.social-btn:hover{
+} */
+/* .social-btn:hover{
   color: blue;
-}
-.facebook {
+} */
+/* .facebook { */
   /* background: #3b5998; */
-  background-color: white;
+  /* background-color: white;
   color: rgb(0, 0, 0);
   opacity: .5;
-}
+} */
 
-.google {
+/* .google {
   background: #db4437;
   color: white;
-}
+} */
 
-.or-text {
+/* .or-text {
   margin: 15px 0;
   font-weight: bold;
-}
-
+} */
+/* 
 input {
   width: 100%;
   padding: 10px;
@@ -115,9 +115,9 @@ input {
   top: 50%;
   transform: translateY(-50%);
   cursor: pointer;
-}
+} */
 
-.login-btn {
+/* .login-btn {
   background: blue;
   color: white;
   width: 100%;
@@ -129,4 +129,9 @@ input {
 }
 i{
   margin-right: .7rem;
+} */
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
