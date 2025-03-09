@@ -21,6 +21,7 @@ import "@fontsource/roboto/400.css";
 import Login from "./components/Login/Login";
 import SignUp from "./components/SignUp/SignUp";
 import Home from "./pages/home/Home";
+import"./components/button/ButtonOne";
 
 function App() {
   return (
